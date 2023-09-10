@@ -1,1 +1,2 @@
-# ojkoder
+# OleKoder
+min første commit
